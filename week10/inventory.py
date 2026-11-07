@@ -1,5 +1,5 @@
 # inventory.py
-# Author: [Jose]
+# Author: [Jose Fernandez]
 # Module 10 Lab: Inventory List Manager
 
 print("--- Exercise 1: Build the list ---")
@@ -71,6 +71,6 @@ print(f"Count: {len(high_sales)}")
 print(f"Average: {sum(high_sales) / len(high_sales)}")
 
 
-#reflection 1: What surprised me most about how lists work in python: capital letters are more powerful than lowercase4
+#reflection 1: What surprised me most about how lists work in python: capital letters are more powerful than lowercase ones. Python also favors characters before numbers and letters.
 
-#reflection 2: A business situation where a python list would have saved me time:
+#reflection 2: A business situation where a python list would have saved me time: One time a python list would have saved me time is back durring the summer, i was working at a summer camp and needed to type workers names into an excel sheet for attendance. Every day we would have to input people attendance by hand. It would have been much easier to do in python especially if someone was out for a certain period of time.
